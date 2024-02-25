@@ -1,3 +1,6 @@
+
+![Screenshot 2024-02-25 at 15-16-26 React Super folio](https://github.com/august-dev-pro/react-super-folio/assets/143771382/e63e6665-f53f-4454-952a-38269fb5e073)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
